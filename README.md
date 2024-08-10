@@ -19,3 +19,16 @@ import matplotlib.pyplot as plt
 import cv2
 from pylab import rcParams
 from IPython.display import Image
+```
+
+
+1.How to Use
+Upload Your Image:
+
+Upload the image from which you want to extract text. For example, an image named nagirikta.png.
+
+Script to Extract Text:
+
+Use the following script to extract text from the image:
+
+Below is the image (nagirikta.png) used for OCR:
