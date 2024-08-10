@@ -96,4 +96,4 @@ Example output:
 
 
 ## sample image
-https://nagarikapp.gov.np/img/citizenship.ec93c799.png
+![Citizenship Image](https://nagarikapp.gov.np/img/citizenship.ec93c799.png)
