@@ -93,3 +93,7 @@ After running the script, the extracted text will be printed as a list of string
 
 Example output:
 ['नेपाली नागरिकता प्रमाणपत्र', 'नाम: राम बहादुर', 'ठेगाना: काठमाण्डौ']
+
+
+## sample image
+https://nagarikapp.gov.np/img/citizenship.ec93c799.png
